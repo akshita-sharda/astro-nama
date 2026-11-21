@@ -7,7 +7,7 @@ Standalone website and local Node.js backend. The Streamlit app is separate and 
 Stop the previous website server with Ctrl+C, then run:
 
 ```powershell
-cd B:\astro-nama\website
+cd website
 npm.cmd install
 npm.cmd run check
 npm.cmd run dev
